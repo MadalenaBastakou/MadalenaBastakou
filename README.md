@@ -3,7 +3,7 @@ I'm Madalena, a Full Stack Developer who's particularly passionate about working
 
 ## My Tech Stack: 
 ### Frontend: 
-![image](https://github.com/MadalenaBastakou/MadalenaBastakou/assets/124565662/fca981b7-d474-409b-8942-57557695be3f)
+![[<img width="25" height="25" src="https://img.icons8.com/ios-filled/50/1A1A1A/html-5--v1.png" alt="html-5--v1"/>]
 
 ~ HTML, CSS </br>
 ~ JavaScript </br>
