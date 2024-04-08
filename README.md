@@ -9,7 +9,7 @@ I'm Madalena, a Full Stack Developer who's particularly passionate about working
 ~ React </br>
 ~ React Hook Form </br>
 ~ React Query </br>
-~TypeScript </br>
+~ TypeScript </br>
 ~ TailwindCSS </br>
 ~ Sass </br>
   
